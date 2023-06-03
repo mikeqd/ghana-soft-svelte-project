@@ -52,35 +52,35 @@
 				<ul class="flex gap-6">
 					<li>
 						<a
-							href="notyet"
+							href="/"
 							class="text-[16px] font-semibold hover:border-b-2 hover:border-textcolor transition-all duration-100"
 							>Home</a
 						>
 					</li>
 					<li>
 						<a
-							href="notyet"
+							href="#cases"
 							class="text-[16px] font-semibold hover:border-b-2 hover:border-textcolor transition-all duration-100"
 							>Cases</a
 						>
 					</li>
 					<li>
 						<a
-							href="notyet"
+							href="/"
 							class="text-[16px] font-semibold hover:border-b-2 hover:border-textcolor transition-all duration-100"
 							>Blog</a
 						>
 					</li>
 					<li>
 						<a
-							href="notyet"
+							href="/"
 							class="text-[16px] font-semibold hover:border-b-2 hover:border-textcolor transition-all duration-100"
 							>About</a
 						>
 					</li>
 					<li>
 						<a
-							href="notyet"
+							href="/"
 							class="text-[16px] font-semibold hover:border-b-2 hover:border-textcolor transition-all duration-100"
 							>Contact</a
 						>

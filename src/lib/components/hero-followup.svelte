@@ -60,7 +60,7 @@
 		<img src="/Rectangle 7.png" alt="" />
 	</div>
 	<!-- Our work speaks for itself -->
-	<div>
+	<div id="cases">
 		<p class="md:text-[40px] text-[24px] font-bold lg:py-[45px] md:py-[40px] py-[30px]">
 			Our work speaks for itself
 		</p>
