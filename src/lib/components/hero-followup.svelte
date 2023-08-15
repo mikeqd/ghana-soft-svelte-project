@@ -65,11 +65,11 @@
 			Our work speaks for itself
 		</p>
 		<!-- First case study -->
-		<div class="flex md:flex-row sm:text-left py-[24px] justify-between flex-col-reverse">
+		<div class="flex md:flex-row sm:text-left py-[24px] gap-[30px] flex-col-reverse">
 			<!-- text div -->
-			<div class="flex flex-col sm:items-start items-center md:w-1/2 mx-3">
+			<div class="flex flex-col sm:items-start text-left md:w-1/2 mx-3">
 				<p class="text-[22px] font-bold text-herobg">E-Commerce Website Optimization</p>
-				<p class="sm:text-[18] text-[16px] text-bodysuptext py-[12px] text-justify hyphens-auto ">
+				<p class="sm:text-[18] text-bodysuptext text-[17px] leading-[28px] py-[12px]  ">
 					Discover how we transformed an underperforming e-commerce website into a conversion-driven
 					platform, implementing intuitive navigation, seamless checkout process, and responsive
 					design for optimal user experience. Result: Increased sales by 30% and reduced bounce rate
@@ -77,7 +77,7 @@
 				</p>
 				<div><button
 					class="bg-maingreen flex items-center gap-3 rounded-[5px]
-                 text-white py-[7px] px-[15px] text-[20px] font-bold text-center my-[15px]"
+                 text-white py-[10px] px-[15px] text-[20px] font-bold text-center my-[15px]"
 					>View case study <span class="hover:translate-x-1 transition-transform duration-300">
 						<img src="/Arrow 3.png" alt="arrow" />
 					</span></button
@@ -87,19 +87,19 @@
 		</div>
 
 		<!-- Second case study -->
-		<div class="flex md:flex-row sm:text-left py-[24px] justify-between flex-col md:py-[32px]">
+		<div class="flex md:flex-row sm:text-left py-[24px] gap-[30px] flex-col md:py-[32px]">
 			<img src="/Case2.png" alt="case1" class="md:w-1/2" />
 			<!-- text div -->
-			<div class="flex flex-col sm:items-start items-center md:w-1/2 mx-3">
+			<div class="flex flex-col sm:items-start text-left md:w-1/2 mx-3">
 				<p class="text-[22px] font-bold text-herobg">Custom Web Application Development</p>
-				<p class="font-[18] text-bodysuptext py-[12px] text-justify hyphens-auto ">
+				<p class="font-[18] text-bodysuptext text-[17px] leading-[28px] py-[12px]  ">
 					Learn how we built a robust web application tailored to meet our client's unique business
 					needs, integrating advanced features, scalability, and security measures. Result:
 					Streamlined processes, improved productivity, and enhanced customer satisfaction.
 				</p>
 				<div><button
 					class="bg-maingreen flex items-center gap-3 rounded-[5px]
-                 text-white py-[7px] px-[15px] text-[20px] font-bold text-center my-[15px]"
+                 text-white py-[10px] px-[15px] text-[20px] font-bold text-center my-[15px]"
 					>View case study <span class="hover:translate-x-1 transition-transform duration-300">
 						<img src="/Arrow 3.png" alt="arrow" />
 					</span></button
@@ -107,11 +107,11 @@
 			</div>
 		</div>
 		<!-- Third case study -->
-		<div class="flex md:flex-row sm:text-left py-[24px] justify-between flex-col-reverse">
+		<div class="flex md:flex-row sm:text-left py-[24px] gap-[30px] flex-col-reverse">
 			<!-- text div -->
-			<div class="flex flex-col sm:items-start items-center md:w-1/2 mx-3">
+			<div class="flex flex-col sm:items-start text-left md:w-1/2 mx-3">
 				<p class="text-[22px] font-bold text-herobg">Responsive Website Redesign</p>
-				<p class="font-[18] text-bodysuptext py-[12px] text-justify hyphens-auto ">
+				<p class="font-[18] text-bodysuptext text-[17px] leading-[28px] py-[12px]  ">
 					Explore our journey of revitalizing a dated website into a modern, mobile-friendly
 					interface, optimizing performance, and delivering a visually captivating experience across
 					all devices. Result: Higher engagement, reduced bounce rate, and increased conversion
@@ -119,7 +119,7 @@
 				</p>
 				<div><button
 					class="bg-maingreen flex items-center gap-3 rounded-[5px]
-                 text-white py-[7px] px-[15px] text-[20px] font-bold text-center my-[15px]"
+                 text-white py-[10px] px-[15px] text-[20px] font-bold text-center my-[15px]"
 					>View case study <span class="hover:translate-x-1 transition-transform duration-300">
 						<img src="/Arrow 3.png" alt="arrow" />
 					</span></button
@@ -128,19 +128,19 @@
 			<img src="/Case3.png" alt="case1" class="md:w-1/2" />
 		</div>
 		<!-- Fourth case study -->
-		<div class="flex md:flex-row sm:text-left py-[24px] justify-between flex-col md:py-[32px]">
+		<div class="flex md:flex-row sm:text-left py-[24px] gap-[30px] flex-col md:py-[32px]">
 			<img src="/Case4.png" alt="case1" class="md:w-1/2" />
 			<!-- text div -->
-			<div class="flex flex-col sm:items-start items-center md:w-1/2 mx-3">
+			<div class="flex flex-col sm:items-start text-left md:w-1/2 mx-3">
 				<p class="text-[22px] font-bold text-herobg">API Integration for Seamless Data Exchange</p>
-				<p class="font-[18] text-bodysuptext py-[12px] text-justify hyphens-auto ">
+				<p class="font-[18] text-bodysuptext text-[17px] leading-[28px] py-[12px]  ">
 					Dive into our successful integration of third-party APIs, enabling smooth data exchange
 					and system interoperability, ultimately enhancing efficiency, data accuracy, and enabling
 					new functionalities for our client's web application.
 				</p>
 				<div><button
 					class="bg-maingreen flex items-center gap-3 rounded-[5px]
-                 text-white py-[7px] px-[15px] text-[20px] font-bold text-center my-[15px]"
+                 text-white py-[10px] px-[15px] text-[20px] font-bold text-center my-[15px]"
 					>View case study <span class="hover:translate-x-1 transition-transform duration-300">
 						<img src="/Arrow 3.png" alt="arrow" />
 					</span></button
@@ -148,18 +148,18 @@
 			</div>
 		</div>
 		<!-- Fifth case study -->
-		<div class="flex md:flex-row sm:text-left py-[24px] justify-between flex-col-reverse">
+		<div class="flex md:flex-row sm:text-left py-[24px] gap-[30px] flex-col-reverse">
 			<!-- text div -->
-			<div class="flex flex-col sm:items-start items-center md:w-1/2 mx-3">
+			<div class="flex flex-col sm:items-start text-left md:w-1/2 mx-3">
 				<p class="text-[22px] font-bold text-herobg">Progressive Web App Development</p>
-				<p class="font-[18] text-bodysuptext py-[12px] text-justify hyphens-auto ">
+				<p class="font-[18] text-bodysuptext text-[17px] leading-[28px] py-[12px]  ">
 					Discover how we leveraged the power of progressive web app technology to create an
 					immersive, app-like experience accessible across devices, enabling offline functionality
 					and boosting user engagement.
 				</p>
 				<div><button
 					class="bg-maingreen flex items-center gap-3 rounded-[5px]
-                 text-white py-[7px] px-[15px] text-[20px] font-bold text-center my-[15px]"
+                 text-white py-[10px] px-[15px] text-[20px] font-bold text-center my-[15px]"
 					>View case study <span class="hover:translate-x-1 transition-transform duration-300">
 						<img src="/Arrow 3.png" alt="arrow" />
 					</span></button
@@ -168,19 +168,19 @@
 			<img src="/Case5.png" alt="case1" class="md:w-1/2" />
 		</div>
 		<!-- Sixth case study -->
-		<div class="flex md:flex-row sm:text-left py-[24px] justify-between flex-col md:py-[32px]">
+		<div class="flex md:flex-row sm:text-left py-[24px] gap-[30px] flex-col md:py-[32px]">
 			<img src="/Case6.png" alt="case1" class="md:w-1/2" />
 			<!-- text div -->
-			<div class="flex flex-col sm:items-start items-center md:w-1/2 mx-3">
+			<div class="flex flex-col sm:items-start text-left md:w-1/2 mx-3">
 				<p class="text-[22px] font-bold text-herobg">Multi-language Website Localization</p>
-				<p class="font-[18] text-bodysuptext py-[12px] text-justify hyphens-auto ">
+				<p class="font-[18] text-bodysuptext text-[17px] leading-[28px] py-[12px]  ">
 					Uncover our process of adapting a website to cater to multiple languages and cultures,
 					ensuring linguistic accuracy, cultural sensitivity, and optimized user experiences across
 					different regions, expanding our client's global reach.
 				</p>
 				<div><button
 					class="bg-maingreen flex items-center gap-3 rounded-[5px]
-                 text-white py-[7px] px-[15px] text-[20px] font-bold text-center my-[15px]"
+                 text-white py-[10px] px-[15px] text-[20px] font-bold text-center my-[15px]"
 					>View case study <span class="hover:translate-x-1 transition-transform duration-300">
 						<img src="/Arrow 3.png" alt="arrow" />
 					</span></button
