@@ -7,7 +7,7 @@
 				<p class="text-[32px] font-bold text-white md:pb-[0px] pb-[20px]">Request A Callback</p>
 			</div>
 			<!-- Form div -->
-			<div>
+			<div class="mx-[30px]">
 				<form action="" class="">
 					<input
 						type="text"
